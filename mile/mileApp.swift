@@ -11,7 +11,7 @@ import SwiftUI
 struct mileApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Experience2()
         }
     }
 }
